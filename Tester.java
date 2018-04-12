@@ -1,5 +1,5 @@
 public class Tester{
-public void main(){
+public static void main(){
  Person jim = new Person("Jim", 99, "M");
  System.out.println(jim);
  
